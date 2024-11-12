@@ -39,7 +39,8 @@
     width: 400px;
     height: 450px;
     background: var(--background-login);
-}
+    backdrop-filter: blur(.5rem);
+}    
 
 h2 {
     font-size: 2rem;
